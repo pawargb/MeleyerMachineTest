@@ -1,0 +1,6 @@
+framework module Pods_MeLeyerMachineTest {
+  umbrella header "Pods-MeLeyerMachineTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
